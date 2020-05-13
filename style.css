@@ -1,0 +1,15 @@
+html, body {
+    background: linear-gradient(to right, red, yellow);
+    text-align: center;
+    text-transform: uppercase;
+    color: aliceblue;
+    height: 100%;
+}
+h2 {
+    color: purple;
+    text-decoration: underline;
+}
+form {
+    background: linear-gradient(to right, red, yellow);
+    height: 100%;
+}
